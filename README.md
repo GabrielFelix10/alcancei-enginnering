@@ -11,7 +11,7 @@ The first thing you must do , its access the project folder after git clone <br>
   ```
 Inside the project folder you must execute in that order 2 commands 
 * ```sh
-   npm install
+   make start
   ```
 * ```sh
    node api/index.js 
