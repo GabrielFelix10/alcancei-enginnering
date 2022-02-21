@@ -9,7 +9,7 @@ class CarteiraService{
     }
 
      async getWallet () {
-      const ceiCrawler = new CeiCrawler(this.username,  this.senha) // 09056276603 senior@1kk //1kk@senior
+      const ceiCrawler = new CeiCrawler(this.username,  this.senha) 
       let wallets;
 
         try {
